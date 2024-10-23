@@ -9,7 +9,7 @@ is_a(fashion, category).
 is_a(clothing, fashion).
 is_a(accessories, fashion).
 is_a(headwear, fashion).
-is_a(Footwear, fashion).
+is_a(footwear, fashion).
 
 is_a(jacket, clothing).
 is_a(pants, clothing).
