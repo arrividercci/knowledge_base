@@ -4,59 +4,57 @@
 fashion
 ├── clothing
 │   ├── outerwear
-│   │   └── jacket
-│   │       ├── zipper
-│   │       └── hood
-│   ├── trousers
-│   │   └── pants
+│   │   ├── jacket
+│   │   │   ├── zipper
+│   │   │   └── hood
+│   │   └── coat
 │   │       ├── buttons
 │   │       └── pockets
-│   ├── tops
-│   │   └── shirt
-│   │       ├── collar
-│   │       └── sleeves
-│   └── dresses
-│       └── dress
-│           ├── hemline
-│           └── belt
+│   └── tops
+│       ├── shirt
+│       │   ├── collar
+│       │   └── sleeves
+│       └── sweater
+│           ├── knit
+│           └── cuffs
 ├── footwear
-│   ├── athletic footwear
-│   │   └── sneakers
-│   │       ├── laces
-│   │       └── sole
-│   ├── boots
-│   │   └── boots
-│   │       ├── heel
-│   │       └── zipper
-│   └── casual footwear
-│       └── sandals
-│           ├── straps
-│           └── footbed
+│   ├── athletic_footwear
+│   │   ├── sneakers
+│   │   │   ├── laces
+│   │   │   └── sole
+│   │   └── running_shoes
+│   │       ├── arch_support
+│   │       └── traction
+│   └── casual_footwear
+│       ├── sandals
+│       │   ├── straps
+│       │   └── footbed
+│       └── loafers
+│           ├── heel
+│           └── tongue
 ├── accessory
 │   ├── wristwear
-│   │   └── watch
-│   │       ├── wristband
-│   │       └── clock_face
-│   ├── neckwear
-│   │   └── scarf
-│   │       └── fringe
-│   ├── jewelry
-│   │   └── necklace
+│   │   ├── watch
+│   │   │   ├── wristband
+│   │   │   └── clock_face
+│   │   └── bracelet
+│   │       ├── chain
 │   │       └── clasp
-│   └── fingerwear 
-│       └── ring
-│           └── gemstone
+│   └── neckwear
+│       ├── scarf
+│       │   ├── fringes
+│       │   └── knot
+│       └── necklace
+│           ├── pendant
+│           └── clasp
 └── headwear
     ├── caps
-    │   └── baseball_cap
-    │       └── visor
-    ├── hats
-    │   └── winter_hat
-    │       └── fur_lining
-    ├── beanies
-    │   └── beanie
-    │       └── knit_material
-    └── formal headwear
+    │   ├── baseball_cap
+    │   │   └── visor
+    │   └── visor
+    └── hats
+        ├── winter_hat
+        │   └── fur_lining
         └── fedora
             └── ribbon
 
