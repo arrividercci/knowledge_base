@@ -3,45 +3,61 @@
 ```
 fashion
 ├── clothing
-│   ├── jacket
-│   │   ├── zipper
-│   │   └── hood
-│   ├── pants
-│   │   ├── buttons
-│   │   └── pockets
-│   ├── shirt
-│   │   ├── collar
-│   │   └── sleeves
-│   └── dress
-│       ├── hemline
-│       └── belt
+│   ├── outerwear
+│   │   └── jacket
+│   │       ├── zipper
+│   │       └── hood
+│   ├── trousers
+│   │   └── pants
+│   │       ├── buttons
+│   │       └── pockets
+│   ├── tops
+│   │   └── shirt
+│   │       ├── collar
+│   │       └── sleeves
+│   └── dresses
+│       └── dress
+│           ├── hemline
+│           └── belt
 ├── footwear
-│   ├── sneakers
-│   │   ├── laces
-│   │   └── sole
+│   ├── athletic footwear
+│   │   └── sneakers
+│   │       ├── laces
+│   │       └── sole
 │   ├── boots
-│   │   ├── heel
-│   │   └── zipper
-│   └── sandals
-│       ├── straps
-│       └── footbed
+│   │   └── boots
+│   │       ├── heel
+│   │       └── zipper
+│   └── casual footwear
+│       └── sandals
+│           ├── straps
+│           └── footbed
 ├── accessory
-│   ├── watch
-│   │   ├── wristband
-│   │   └── clock_face
-│   ├── scarf
-│   │   └── fringe
-│   ├── necklace
-│   │   └── clasp
-│   └── ring
-│       └── gemstone
+│   ├── wristwear
+│   │   └── watch
+│   │       ├── wristband
+│   │       └── clock_face
+│   ├── neckwear
+│   │   └── scarf
+│   │       └── fringe
+│   ├── jewelry
+│   │   └── necklace
+│   │       └── clasp
+│   └── fingerwear 
+│       └── ring
+│           └── gemstone
 └── headwear
-    ├── baseball_cap
-    │   └── visor
-    ├── winter_hat
-    │   └── fur_lining
-    ├── beanie
-    │   └── knit_material
-    └── fedora
-        └── ribbon
+    ├── caps
+    │   └── baseball_cap
+    │       └── visor
+    ├── hats
+    │   └── winter_hat
+    │       └── fur_lining
+    ├── beanies
+    │   └── beanie
+    │       └── knit_material
+    └── formal headwear
+        └── fedora
+            └── ribbon
+
 ```
